@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5de1124793009f255c42d098"},"type":"admin","mail":"damien.popiel@gmail.com","pwd":"toto","name":"Damien","surname":"POPIEL","city":[{"$oid":"5de11064518443255c75ad4f"},{"$oid":"5de11073518443255c75ad50"}],"__v":{"$numberInt":"0"},"adress":"1 impasse des cerfs 77590 Bois-le-roi"}
+{"_id":{"$oid":"5de1127993009f255c42d099"},"type":"producer","mail":"jeanclaude@laferme.fr","pwd":"toto","name":"jean","surname":"claude","city":[{"$oid":"5de11064518443255c75ad4f"},{"$oid":"5de11073518443255c75ad50"}],"__v":{"$numberInt":"0"},"adress":null}
+{"_id":{"$oid":"5de1240cc2f9bd49d8f62a8b"},"type":"user","mail":"toto@gmail.com","pwd":"toto","name":"toto","surname":"toto","adress":"+451sdfsdf","city":[],"__v":{"$numberInt":"0"}}

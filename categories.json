@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5de10e87dcc2132e0c2f1d49"},"name":"Légume","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5de10e93dcc2132e0c2f1d4a"},"name":"Viande","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5de10e9adcc2132e0c2f1d4b"},"name":"Poisson","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5de10ea4dcc2132e0c2f1d4c"},"name":"Oeuf/Laitage","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5de8cfbbaa03572b28b7b0be"},"name":"fruit","__v":{"$numberInt":"0"}}

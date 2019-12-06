@@ -1,0 +1,13 @@
+{"_id":{"$oid":"5de11064518443255c75ad4f"},"name":"Paris","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5de11073518443255c75ad50"},"name":"Lille","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5de1107a518443255c75ad51"},"name":"Bordeaux","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5de11081518443255c75ad52"},"name":"Marseille","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5de11086518443255c75ad53"},"name":"Lyon","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5de8cf89aa03572b28b7b0bd"},"name":"Toulouse","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5de8d1e6aa03572b28b7b0bf"},"name":"Melun","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5de8d1eeaa03572b28b7b0c0"},"name":"Versailles","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5de8d221aa03572b28b7b0c1"},"name":"Nanterre","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5de8d232aa03572b28b7b0c2"},"name":"Puteaux","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5de8d240aa03572b28b7b0c3"},"name":"Issy-les-moulineaux","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5de8d24baa03572b28b7b0c4"},"name":"Bois-le-roi","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5de8d252aa03572b28b7b0c5"},"name":"Fontainebleau","__v":{"$numberInt":"0"}}
